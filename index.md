@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+I am NodeTator. I'm exploring the Crypto Space from the viewpoint of an investor. [about me](/about/).
