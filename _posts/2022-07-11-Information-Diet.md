@@ -1,9 +1,9 @@
 ---
 layout: post
-title:	Things I want to explore this bear market
-date:	2022-06-27
+title:	Your information diet
+date:	2022-07-11
 author:	Nodetator
-description: Protocols and Teams I'm excited about
+description: Being your own librarian
 ogimage: nodetator.jpeg
 
 ---
