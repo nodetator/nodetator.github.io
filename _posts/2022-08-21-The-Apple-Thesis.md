@@ -8,7 +8,6 @@ ogimage: nodetator.jpeg
 
 ---
 
-# The Apple Thesis  
 What is the thesis for Apple for the next 10 years? There are way better Apple analysts out there, but this is my humble attempt in summarizing the bull case of Apple.
 
 * Consumers have shown a fanatical obsession over Apple products
