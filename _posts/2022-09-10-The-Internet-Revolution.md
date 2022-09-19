@@ -1,14 +1,12 @@
 ---
 layout: post
-title:	The Internet Revolution
+title:	The Internet Revolution Series - Software & Jobs
 date:	2022-09-19
 author:	Nodetator
 description: How Software is Changing the World
 ogimage: nodetator.jpeg
 
 ---
-
-# Software and Jobs
 
 It was 11 years ago since Marc Andreessen penned this piece - [Why Software is Eating the World](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460). It's amazing to look back and realize how prescient that article was.  Software has indeed eaten the world, it has change the way we live, work, play, rest and just about everything of our lives.  
 
