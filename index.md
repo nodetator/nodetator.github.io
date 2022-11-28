@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-I am NodeTator. I'm exploring the Crypto Space from the viewpoint of an investor. [about me](/about/).
+I am NodeTator. I am an aspiring analyst dissecting the technology markets. [About me](/about/).

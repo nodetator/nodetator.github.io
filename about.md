@@ -4,10 +4,12 @@ title: About me
 permalink: /about/
 ---
 
-Hi there, I'm Nodetator. I joined the Crypto Space in late 2021, I missed out on the bull market. 
+Hi there, I'm Nodetator. I am an aspiring independent analyst. What does that mean?
 
-Still, I think Crypto is endlessly fascinating, that's why I want to learn more.
+I try to read and dissect a bunch of stuff and articulate it in writing, hopefully in a way that a 12 year old understands
 
-This website shares my thoughts on all things Crypto (and other topics)
+My principal interests now are: Defi Protocol Mechanisms and Public Technology Companies 
+
+I share my thoughts (including personal ones) on this website
 
 I can be contacted on Twitter.
