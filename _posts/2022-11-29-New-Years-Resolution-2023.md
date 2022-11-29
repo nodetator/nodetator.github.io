@@ -50,4 +50,4 @@ Just some random things to do for the idea:
 
 ### Conclusion
 
-Those are my 4 resolutions going into 2023, I will continue to share my nonsensical thoughts here. Not sure how many people will be reading this, but if you ever get interested in what I have to say, follow me on Twitter.
+Those are my 4 resolutions going into 2023, I will continue to share my nonsensical thoughts here. No
