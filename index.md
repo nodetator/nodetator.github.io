@@ -1,4 +1,6 @@
 ---
 layout: home
 ---
-I am NodeTator. I am an aspiring analyst dissecting the technology markets. [About me](/about/).
+I am a technology enthusiast and a writer. I read and write about technology 
+
+[About me](/about/).
